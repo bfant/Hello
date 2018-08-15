@@ -1,2 +1,6 @@
 a git test file
-branch master change
+<<<<<<< HEAD
+branch change
+=======
+branch change
+>>>>>>> dev
